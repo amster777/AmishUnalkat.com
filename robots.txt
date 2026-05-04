@@ -1,0 +1,11 @@
+
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /youconsult
+Allow: /youtalks
+Allow: /youeducate
+Allow: /youinspire
+Allow: /contact
+
+Sitemap: https://example.com/sitemap.xml
